@@ -1,6 +1,8 @@
 <h1 align="center" >Hello There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center" color= #308446>My name is Juan Moreno - Frontend React Developer</h2>
 
+<img align="center"  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+
 
 
 <p align="center">  
@@ -33,4 +35,3 @@ I am a Frontend Web developer with strong skills in HTML, CSS, JAVASCRIPT and mo
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nicoirigoyen&label=Vistas&color=0e75b6&style=flat" alt="nicoirigoyen" /> </p>
 
 
-<img align="center"  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
