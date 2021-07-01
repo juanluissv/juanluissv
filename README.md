@@ -1,28 +1,18 @@
 <h1 align="center" >Hello There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center" color= #308446>My name is Juan Moreno - Frontend React Developer</h2>
 
-<img  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p> -->
-
-<!-- - 🔭 Actualmente estoy trabajando en **Pagina Web de TECHO**
-
-- 🌱 Actualmente estoy aprendiendo testing con **Jest**
-
-- 👯 Estoy buscando colaborar en **Proyectos Full-Stack**
-
-- 👨‍💻 Mis proyectos [Deploy en proceso]
-
-- 📫 Contacto **nico.irigoyen.terre@hotmail.com**
-
-- 📄 Conoce mis experiencias [Portfolio](Portfolio)
-
-- ⚡ Hobbies **Deportes** -->
+<p align="center">  
+I am a Frontend Web developer with strong skills in HTML, CSS, JAVASCRIPT and modern tools and frameworks like REACT, REDUX, REDUX-THUNK, AXIOS, HOOKS, TYPESCRIPT, ES6, GIT, UNIT TESTING, Node JS, ETC. with the ability to collaborate with other team members and a positive, constructive CAN-DO attitude who likes to collaborate with designers and product managers to determine products direction and customer needs to craft compelling user experiences
+</p> 
 
 <h3 align="left">Contact:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/juanmoreno7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-irigoyen-terre" height="30" width="40" /></a>
+
+<img  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+
 
 
 <h3 align="left">Tools and Frameworks I use every day:</h3>
