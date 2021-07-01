@@ -1,7 +1,7 @@
 <h1 align="center" >Hello There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center" color= #308446>My name is Juan Moreno - Frontend React Developer</h2>
 
-<img  src="https://media0.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif"/>
+<img  src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicoirigoyen" alt="nicoirigoyen" /></a> </p> -->
