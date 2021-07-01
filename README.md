@@ -1,5 +1,5 @@
 <h1 align="center" >Hello There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center" color= #308446>I am Juan Moreno - Frontend Web Developer</h2>
+<h2 align="center" color= #308446>My name is Juan Moreno - Frontend React Developer</h2>
 
 <img  src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif?mtime=20200914144127&focal=none"/>
 
