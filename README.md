@@ -7,10 +7,11 @@
 I am a Frontend Web developer with strong skills in HTML, CSS, JAVASCRIPT and modern tools and frameworks like REACT, REDUX, REDUX-THUNK, AXIOS, HOOKS, TYPESCRIPT, ES6, GIT, UNIT TESTING, Node JS, ETC. with the ability to collaborate with other team members and a positive, constructive CAN-DO attitude who likes to collaborate with designers and product managers to determine products direction and customer needs to craft compelling user experiences
 </p> 
 
-<h3 align="left">Contact:</h3>
+<h3 align="left">Contact:
 <p align="center">
 <a href="https://www.linkedin.com/in/juanmoreno7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nicolas-irigoyen-terre" height="30" width="40" /></a>
-
+</h3>
+ 
 <img  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
 
 
