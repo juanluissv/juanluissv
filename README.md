@@ -1,7 +1,7 @@
 <h1 align="center" >Hello There ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h2 align="center" color= #308446>My name is Juan Moreno - Frontend React Developer</h2>
 
-<img align="center"  src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif"/>
+<img align="center"  src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/200.gif"/>
 
 
 
